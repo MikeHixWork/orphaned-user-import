@@ -1,0 +1,13 @@
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\obj\Debug\ImportOrphanedUsers.csproj.CoreCompileInputs.cache
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\bin\Debug\ImportOrphanedUsers.exe.config
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\bin\Debug\ImportOrphanedUsers.exe
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\bin\Debug\ImportOrphanedUsers.pdb
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\bin\Debug\Allrecipes.Data.dll
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\bin\Debug\System.Data.SqlClient.dll
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\obj\Debug\ImportOrphanedUsers.csprojAssemblyReference.cache
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\obj\Debug\ImportOrphanedUsers.csproj.CopyComplete
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\obj\Debug\ImportOrphanedUsers.exe
+C:\Users\mhixenba\Documents\Visual Studio 2017\Projects\ImportOrphanedUsers\ImportOrphanedUsers\obj\Debug\ImportOrphanedUsers.pdb
